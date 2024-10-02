@@ -16,4 +16,5 @@ end
 arr = [1, 2, 3, 4, 5]
 k = 2
 rotated_arr = rotate_array(arr, k)
-puts rotated_arr.inspect 
+puts rotated_arr.inspect
+ 
